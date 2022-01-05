@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    color: #40514E;
+}
+
+.intro{
+    padding: 70px 50px 0;
+    background-color: #66BFBF;
+    margin-bottom: 0;
+}
+div{
+    padding:50px 400px;
+}
+.img,.text{
+    display: inline;
+}
+
+button{
+    background-color: #40514E;
+    margin: 30px 0;
+    padding: 10px 10px;
+    border: none;
+}
+
+h2,h3{
+    padding: 20px 0;
+    color: #11999E;
+}
+
+
+a{
+    text-decoration: none;
+    color: #11999E;
+}
+
+a:hover{
+    color: #30E3CA;
+}
+
+a>.socials{
+    display: inline;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.footText{
+    padding: 10px 0;
+}
+
+.footer{
+    background-color: #E4F9F5;
+    padding: 20px 0;
+}
